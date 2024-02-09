@@ -1,0 +1,15 @@
+.square_wrapper {
+  background-color: rgb(39, 6, 60);
+  height: 15rem;
+  width: 15rem;
+  border: 1rem solid green;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.x-or-o-wrapper {
+  font-size: 8rem;
+}
